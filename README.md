@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbutalha8585&label=Profile%20views&color=0e75b6&style=flat" alt="abbutalha8585" /> </p>
 
-- 🔭 I’m currently working on **Jarvis ai assistant**
+- 🔭 I’m currently working on **Projects **
 
 - 📫 How to reach me **abbutalha85855@gmail.com**
 
